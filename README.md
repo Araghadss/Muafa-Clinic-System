@@ -1,13 +1,9 @@
 # 🏥 Muafa Clinic
-
 <p align="center">
-<video src="assets/header.mp4" autoplay loop muted width="100%"></video>
+<a href="images/Untitled video - Made with Clipchamp.mp4">
+<img src="images/b2.png" style="width:100%; height:250px; object-fit:cover;">
+</a>
 </p>
-
-🌐 **Visit the Live Website**  
-*(Add your live link here if hosted)*
-
----
 
 ## 📝 About Muafa
 
